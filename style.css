@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+.main-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.title-container{
+    display: flex;
+    align-items: center;
+    border: 1px solid coral;
+    border-radius: 40px;
+    width: fit-content;
+    background-color: coral;
+    padding-right: 20px;
+    margin: 40px;
+}
+.chip-img{
+    width: 80px;
+    background-color: blueviolet;
+    border-radius: 60px;
+}
+.h3-item{
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 0.89px;
+    padding: 0 35px;
+}
+.material-icons-outlined{
+    background-color: darkorchid;
+    border-radius: 60px;
+    padding: 5px;
+}
